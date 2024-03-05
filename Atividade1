@@ -1,4 +1,4 @@
-public class Soma {
+public class Soma{
 	public static void main(String[]args) {
 		int INDICE = 13, soma = 0, k = 0;
 		
